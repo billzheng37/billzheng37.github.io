@@ -31,7 +31,7 @@ author:
   location         : "Mountain View, CA"
   employer         : "Stanford University"
   uri              : # URL
-  email            : # Your email address; leave blank to hide the email link
+  email            : "bzheng37@stanford.edu"
 
   # Academic websites
   academia         : # URL
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # billzheng37
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
