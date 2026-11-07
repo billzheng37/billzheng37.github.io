@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am [your position] at [your institution].
+I am a predoctoral researcher at the Stanford Institute for Research in the Social Sciences working with Dr. Rebekah Dix on projects about industrial organization, health, and innovation. 
 
-My research interests include [your research fields]. [Add a sentence about the questions you study.]
-
-[Add a short paragraph about your education and background.]
+I graduated from Washington and Lee University in May 2026 with a BA in Economics (with honors) and Music. 
 
 {% if site.author.email %}
 Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
