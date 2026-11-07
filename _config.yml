@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Bill Zheng"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic website"
+name                     : &name "Bill Zheng"
+description              : &description "Bill Zheng's academic website"
 url                      : https://billzheng37.github.io # Your website address
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,9 +27,9 @@ author:
   avatar           : "portrait-placeholder.svg"
   name             : *name
   pronouns         : # example: "she/her"  
-  bio              : "Your position"
-  location         : # Optional: city, state
-  employer         : "Your institution"
+  bio              : "Predoctoral Researcher at Stanford"
+  location         : "Mountain View, CA"
+  employer         : "Stanford University"
   uri              : # URL
   email            : # Your email address; leave blank to hide the email link
 
